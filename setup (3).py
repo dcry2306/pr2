@@ -3,7 +3,7 @@ from setuptools import setup
 setup(
     author='dcry2306',
     author_email='kilaz2306@gmail.com',
-    name='GuDory',
+    name='dcrypr',
     version='0.0.1',
     description='A simple package for https://app.tea.xyz/. Example pr1 - https://github.com/dcry2306/pr2.git and pr2 - https://github.com/dcry2306/pr2.git',
     url='https://github.com/CryptoGu1/GuDory.git',
