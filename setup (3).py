@@ -24,6 +24,6 @@ setup(
     python_requires='>=3.6',
     install_requires=[
         'requests>=2.20.0',
-        'GuDory',
+        'pr1',
     ],
 )
